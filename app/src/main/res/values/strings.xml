@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"> Barbershop</string>
+    <string name="nane">Nathi\'s Barber Shop</string>
+    <string name="village">Welcome to the finest BarberShop</string>
+    <string name="about">6 Years Of Experience as a barber<br />
+         I offer a classic barber shop experience while providing a broad range of classic and modern barber services. If you are looking for a great classic cut, a clean fade,
+         or the best shave in Durban, I got you covered. For the ladies, I am proud to be the home of some of greatest stylists who are not only known for great cuts,
+        but some of the best color jobs in the area
+
+    </string>
+    <string name="admin">Hello guys, I am Nathi Mazibuko from Kwa-Mashu. I am a barber based in Durban.</string>
+    <string name="barber">Hello guys, I am Suraj from Chirner. I am barber of the Barber Shop Market.</string>
+    <string name="tattoo">Hello guys, I am *NAME* from *PLACE*. I am Barber/Stylist of the Barber Shop</string>
+    <string name="shop">with brother haircut responcive landing page is website you can appointment with brother haircut barber shop</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="appoint_here">Fill in:</string>
+    <string name="welcome">WELCOME TO OUR SHOP</string>
+    <string name="unique_story">About Us</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="cancel">Cancel</string>
+</resources>
