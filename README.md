@@ -6,6 +6,19 @@ An Android application built using Java and Firebase to simplify the process of 
 
 The BarberShop App enables barbers (the client) to view and manage their bookings, while customers can easily book appointments at their preferred time. The app provides a simple and intuitive interface for both barbers and customers, improving the overall experience of managing barbershop appointments.
 
+### Barber Login
+![Barber Login](./screenshots/login.jpg)
+
+### Barber Dashboard
+![Barber Dashboard](./screenshots/dashboard.jpg)
+
+### Customer Booking
+![Customer Booking](./screenshots/booking1.jpg)
+![Customer Booking](./screenshots/booking2.jpg)
+
+### Appointment Details
+![Appointment Details](./screenshots/view_booking.jpg)
+
 ## Features
 
 ### Barber Features:
